@@ -15,10 +15,16 @@
 </p>  
 
 
-## Technologies used 🛠️
-**Design**: *CSS & HTML*<br />
-
-## Usage 📋
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>JS</li>
+</ul><ul>
+  
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
